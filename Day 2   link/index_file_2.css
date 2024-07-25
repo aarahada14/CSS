@@ -1,0 +1,72 @@
+.name{
+	font-size:20; 
+	text-indent:40px;
+	text-decoration:underline;
+	color:blue;
+}
+
+.name2{
+	font-size:20;
+	text-indent:40px;
+	text-decoration:underline;
+	color:blue;
+}
+
+ .one{ 
+ font-family: "Honk", system-ui; 
+  font-optical-sizing: auto; 
+  font-weight: 400; 
+   font-style: normal; 
+   font-variation-settings: 
+    "MORF" 15, 
+    "SHLN" 50;
+	font-size:50;	
+ } 
+
+  
+	
+
+
+.two{ 
+font-family: "Rubik Moonrocks", sans-serif; 
+ font-weight: 400; 
+ font-style: normal;
+	font-size:50;
+} 
+
+
+ .three{ 
+   font-family: "Ceviche One", system-ui; 
+   font-weight: 400; 
+   font-style: normal; 
+   font-size:50;
+ }
+
+	
+
+.ri-home-heart-fill{
+	font-size:50;
+	
+}
+
+.ri-headphone-fill{
+	font-size:50;
+	
+}
+
+
+.ri-settings-5-fill{
+	font-size:50;
+	
+}
+
+
+.fa-solid {
+	font-size:50;
+}
+
+
+.ri-delete-bin-2-fill{
+	font-size:50;
+	color:red;
+}
